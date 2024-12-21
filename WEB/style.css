@@ -1,0 +1,19 @@
+body{
+    border-width: 20px;
+    border-color: pink;
+    border-radius: 20px;
+}
+
+label{
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+
+}
+.main button{
+    margin: 20px;
+}
